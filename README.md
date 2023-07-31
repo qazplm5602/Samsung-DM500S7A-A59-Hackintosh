@@ -1,5 +1,7 @@
 # Samsung-DM500S7A-A59-Hackintosh
 
+![Monterey](screenshots/monterey.png)
+
 ## 🔎 Configuration
 |      | Detail   |
 | ---- | -----------------------------------------|
